@@ -1,0 +1,14 @@
+# copy this to /etc/nginx/sites-available and link to sites-enabled
+#
+#
+#
+
+server {
+  server_name   www.philratcliffe.co.uk philratcliffe.co.uk;
+
+  location / {
+    root  /home/redkestrel/projects/philratcliffe.co.uk;
+  } 
+
+}
+
