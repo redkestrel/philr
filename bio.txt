@@ -1,22 +1,22 @@
-Phil Ratcliffe has worked in the computing industry since
-1986. After graduating from University with a BSc (Hons)
-degree in Electronic Engineering, he worked for British
-Aerospace where he was involved in a number of defence
-related projects.  From 1990 to 1999 he worked for Boldon
-James where he progressed from a software engineer to
-technical architect. He was responsible for many areas
-including the enterprise security offering and the secure
-messaging solution architecture. His deep understanding of
-secure messaging resulted in secondment to work with
-Microsoft in Redmond on secure messaging for the DoD. Phil
-was involved with various other projects including a
-security solution for a large private health company. In
-1999, he left Boldon James to become a freelance security
-consultant. During this period, he has worked for a major
-international bank, acted in the role of security architect
-for a company developing PKI products, and worked on a
-number of large corporate security deployments featuring
-various security technologies. In 2004 Phil founded Red
-Kestrel, a company specialising in the development of PKI
-and SSL related products and services. 
+Phil Ratcliffe  has worked  in the computing  industry since
+1986.  After graduating  from University  with a  BSc (Hons)
+degree  in Electronic  Engineering,  he  worked for  British
+Aerospace  where he  was  involved in  a  number of  defence
+related projects.  From 1990  to 1999  he worked  for Boldon
+James  where  he  progressed  from a  software  engineer  to
+technical  architect.  He  was responsible  for  many  areas
+including the  enterprise security  offering and  the secure
+messaging  solution  architecture.  His  deep  understanding
+of  secure messaging  resulted  in secondment  to work  with
+Microsoft  in  Redmond  on  secure messaging  for  the  DoD.
+Phil was  involved with  various other projects  including a
+security  solution  for  a  large  private  health  company.
+In  1999,  he  left  Boldon  James  to  become  a  freelance
+security consultant  and developer.  During this  period, he
+has  worked for  a major  international bank,  acted in  the
+role  of security  architect  for a  company developing  PKI
+products, and worked on a number of large corporate security
+deployments featuring various security technologies. In 2004
+Phil  founded Red  Kestrel,  a company  specialising in  the
+development of PKI and SSL software products and services.
 
