@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/philratcliffe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://philratcliffe.co.uk
+  * I am philratcliffe (https://keybase.io/philratcliffe) on keybase.
+  * I have a public key ASBtdmYvNuSTtP18c5kiSnpQ2L6OtxoiPes4v88-0C98Ego
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a3523dcd72eabf1edea88efa742084e9e127081f7c6c4b35f898a52d809b7de00a",
+            "host": "keybase.io",
+            "kid": "01206d76662f36e493b4fd7c7399224a7a50d8be8eb71a223deb38bfcf3ed02f7c120a",
+            "uid": "5acf0798e2c9aa00ae54640897e56319",
+            "username": "philratcliffe"
+        },
+        "service": {
+            "hostname": "philratcliffe.co.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486587838,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486587818,
+        "hash": "f3fa26385d0e604fcbe31ef8c9d09a0b8bc7cf16b5f5acfc7c74977ca2f9dfc22c63e635ca05482a9096b820ff5366faecd9d145330fe321b2b001cf35481057",
+        "seqno": 846252
+    },
+    "prev": "6955989a454ee307aa8716773cea4d5db2ad22c1e58afa1b4f17d817b8a541d2",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbXZmLzbkk7T9fHOZIkp6UNi+jrcaIj3rOL/PPtAvfBIKp3BheWxvYWTFAv97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYTM1MjNkY2Q3MmVhYmYxZWRlYTg4ZWZhNzQyMDg0ZTllMTI3MDgxZjdjNmM0YjM1Zjg5OGE1MmQ4MDliN2RlMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmQ3NjY2MmYzNmU0OTNiNGZkN2M3Mzk5MjI0YTdhNTBkOGJlOGViNzFhMjIzZGViMzhiZmNmM2VkMDJmN2MxMjBhIiwidWlkIjoiNWFjZjA3OThlMmM5YWEwMGFlNTQ2NDA4OTdlNTYzMTkiLCJ1c2VybmFtZSI6InBoaWxyYXRjbGlmZmUifSwic2VydmljZSI6eyJob3N0bmFtZSI6InBoaWxyYXRjbGlmZmUuY28udWsiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg2NTg3ODM4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODY1ODc4MTgsImhhc2giOiJmM2ZhMjYzODVkMGU2MDRmY2JlMzFlZjhjOWQwOWEwYjhiYzdjZjE2YjVmNWFjZmM3Yzc0OTc3Y2EyZjlkZmMyMmM2M2U2MzVjYTA1NDgyYTkwOTZiODIwZmY1MzY2ZmFlY2Q5ZDE0NTMzMGZlMzIxYjJiMDAxY2YzNTQ4MTA1NyIsInNlcW5vIjo4NDYyNTJ9LCJwcmV2IjoiNjk1NTk4OWE0NTRlZTMwN2FhODcxNjc3M2NlYTRkNWRiMmFkMjJjMWU1OGFmYTFiNGYxN2Q4MTdiOGE1NDFkMiIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBRWldPhtrYF6NnmK2OgNw88ngtPR1F0r44I/3pip1BHCQ9RuwUMYRA+4XLFHC08NismsS/pxBUVDbpPev7B7Quoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCaQGT3y/iv2ggbDhn7v1LMu7DC1pWAMgZWJ9jYTS/Vx6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/philratcliffe
+
+==================================================================
+
