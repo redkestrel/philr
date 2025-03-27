@@ -1,5 +1,5 @@
 Phil Ratcliffe  has worked  in the computing  industry since
-1986.  After graduating  from University  with a  BSc (Hons)
+1986.  After graduating vfrom University  with a  BSc (Hons)
 degree  in Electronic  Engineering,  he  worked for  British
 Aerospace  where he  was  involved in  a  number of  defence
 related projects.  From 1990  to 1999  he worked  for Boldon
@@ -19,4 +19,5 @@ products, and worked on a number of large corporate security
 deployments featuring various security technologies. In 2004
 Phil  founded Red  Kestrel,  a company  specialising in  the
 development of PKI and SSL software products and services.
+Updated 27/Mar/2025
 
